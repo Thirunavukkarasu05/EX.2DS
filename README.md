@@ -1,4 +1,4 @@
-# EXNO2DS
+# EXNO:2 EDA Analysis using Python
 ~~~
 Name: THIRUNAVUKKARASU P 
 Reg No: 212222040173
